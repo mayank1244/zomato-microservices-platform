@@ -1,0 +1,29 @@
+# Compiled Target Directories
+**/target/
+**/*.class
+
+# Node Modules & Frontend Build
+**/node_modules/
+**/dist/
+**/build/
+.next/
+
+# IDE & Editor Files
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
+
+# Environment Files
+.env
+.env.local
